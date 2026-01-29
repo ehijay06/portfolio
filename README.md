@@ -45,7 +45,7 @@ Power BI – interactive dashboards and business reporting
 
 
 
-** Key Analysis Areas**
+**Key Analysis Areas**
 
 
 
