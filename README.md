@@ -1,7 +1,9 @@
 **📊 Sales Data Analysis Project**
+
 **Overview**
 
 This repository contains a sales data analysis project focused on evaluating business performance and uncovering insights that support strategic decision-making. The project analyzes historical sales data to identify trends, patterns, and key performance indicators (KPIs) relevant to revenue growth, customer behavior, and product performance.
+
 
 
 **Business Objectives**
@@ -15,9 +17,11 @@ Analyze regional and customer-level sales patterns
 Support data-driven business decisions through clear insights and reporting
 
 
+
 **Dataset Description**
 
 The dataset includes structured sales records such as order details, product information, customer segments, geographic regions, quantities sold, and revenue values. The data represents real-world sales scenarios and is used to simulate practical business analysis tasks.
+
 
 
 **Tools & Technologies**
@@ -29,6 +33,7 @@ Excel – preliminary analysis and validation
 Power BI – interactive dashboards and business reporting
 
 
+
 **Key Analysis Areas**
 
 Sales and revenue trends over time
@@ -38,6 +43,7 @@ Product and category performance
 Regional and customer segmentation analysis
 
 Identification of growth opportunities and performance gaps
+
 
 
 **Key Insights & Outcomes**
