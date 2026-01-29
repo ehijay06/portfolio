@@ -8,6 +8,8 @@ This repository contains a sales data analysis project focused on evaluating bus
 
 **Business Objectives**
 
+
+
 Assess overall sales performance and revenue trends over time
 
 Identify top-performing and underperforming products
@@ -18,13 +20,20 @@ Support data-driven business decisions through clear insights and reporting
 
 
 
+
+
 **Dataset Description**
+
+
 
 The dataset includes structured sales records such as order details, product information, customer segments, geographic regions, quantities sold, and revenue values. The data represents real-world sales scenarios and is used to simulate practical business analysis tasks.
 
 
 
+
+
 **Tools & Technologies**
+
 
 SQL – querying and aggregating sales data
 
@@ -34,9 +43,13 @@ Power BI – interactive dashboards and business reporting
 
 
 
-** Key Analysis Areas**
-Sales and revenue trends over time
 
+
+** Key Analysis Areas**
+
+
+
+Sales and revenue trends over time
 Product and category performance
 
 Regional and customer segmentation analysis
@@ -45,7 +58,11 @@ Identification of growth opportunities and performance gaps
 
 
 
+
+
 **Key Insights & Outcomes**
+
+
 
 The analysis delivers actionable insights into sales drivers, revenue distribution, and performance bottlenecks. Results are presented through clear visualizations and summaries designed to support management-level decision-making and strategic planning.
 
